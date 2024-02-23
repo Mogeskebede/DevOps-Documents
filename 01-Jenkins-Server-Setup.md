@@ -8,11 +8,11 @@
 
 ## Step-2 : Instal Java ##
 
-```
+############################
 sudo apt update
 sudo apt install fontconfig openjdk-17-jre
 java -version
-```
+##########################################
 
 ## Step-3 : Install Jenkins ##
 ```
